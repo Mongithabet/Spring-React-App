@@ -17,7 +17,7 @@ public class User {
 	@Column(name="lastName")
 	private String lastName;
 	private String email;
-	
+	//yujyuj
 	
 	public User() {
 		
